@@ -4,7 +4,7 @@ class SpecialString:
         return 42
     
 obj1 = SpecialString()
-# print(len(obj1))
+print(len(obj1))
 #############################
 class Bird:
     
